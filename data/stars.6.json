@@ -5,7 +5,7 @@
       "type": "Feature",
       "id": 88,
       "properties": {
-       "mag": 1.8,
+       "mag": 5.71,
        "bv": "0.911"
       },
       "geometry": {
@@ -440,7 +440,7 @@
       "type": "Feature",
       "id": 765,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.88,
        "bv": "1.013"
       },
       "geometry": {
@@ -815,7 +815,7 @@
       "type": "Feature",
       "id": 1599,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.23,
        "bv": "0.576"
       },
       "geometry": {
@@ -1010,7 +1010,7 @@
       "type": "Feature",
       "id": 2021,
       "properties": {
-       "mag": 1.8,
+       "mag": 2.82,
        "bv": "0.618"
       },
       "geometry": {
@@ -1040,7 +1040,7 @@
       "type": "Feature",
       "id": 2081,
       "properties": {
-       "mag": 1.8,
+       "mag": 2.4,
        "bv": "1.083"
       },
       "geometry": {
@@ -1235,7 +1235,7 @@
       "type": "Feature",
       "id": 2484,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.36,
        "bv": "-0.064"
       },
       "geometry": {
@@ -2615,7 +2615,7 @@
       "type": "Feature",
       "id": 4577,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.3,
        "bv": "-0.154"
       },
       "geometry": {
@@ -2870,7 +2870,7 @@
       "type": "Feature",
       "id": 5165,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.32,
        "bv": "0.885"
       },
       "geometry": {
@@ -2990,7 +2990,7 @@
       "type": "Feature",
       "id": 5348,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.94,
        "bv": "-0.120"
       },
       "geometry": {
@@ -3755,7 +3755,7 @@
       "type": "Feature",
       "id": 6867,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.41,
        "bv": "1.542"
       },
       "geometry": {
@@ -3845,7 +3845,7 @@
       "type": "Feature",
       "id": 7083,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.93,
        "bv": "0.972"
       },
       "geometry": {
@@ -4910,7 +4910,7 @@
       "type": "Feature",
       "id": 8928,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.68,
        "bv": "0.931"
       },
       "geometry": {
@@ -5090,7 +5090,7 @@
       "type": "Feature",
       "id": 9236,
       "properties": {
-       "mag": 1.8,
+       "mag": 2.86,
        "bv": "0.290"
       },
       "geometry": {
@@ -5450,7 +5450,7 @@
       "type": "Feature",
       "id": 9677,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.68,
        "bv": "-0.156"
       },
       "geometry": {
@@ -6080,7 +6080,7 @@
       "type": "Feature",
       "id": 11001,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.08,
        "bv": "0.034"
       },
       "geometry": {
@@ -6785,7 +6785,7 @@
       "type": "Feature",
       "id": 12225,
       "properties": {
-       "mag": 1.8,
+       "mag": 5.3,
        "bv": "0.289"
       },
       "geometry": {
@@ -6905,7 +6905,7 @@
       "type": "Feature",
       "id": 12394,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.12,
        "bv": "-0.061"
       },
       "geometry": {
@@ -6950,7 +6950,7 @@
       "type": "Feature",
       "id": 12484,
       "properties": {
-       "mag": 1.8,
+       "mag": 5.21,
        "bv": "0.411"
       },
       "geometry": {
@@ -7070,7 +7070,7 @@
       "type": "Feature",
       "id": 12653,
       "properties": {
-       "mag": 1.8,
+       "mag": 5.4,
        "bv": "0.561"
       },
       "geometry": {
@@ -7370,7 +7370,7 @@
       "type": "Feature",
       "id": 13147,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.45,
        "bv": "0.981"
       },
       "geometry": {
@@ -7835,7 +7835,7 @@
       "type": "Feature",
       "id": 13884,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.98,
        "bv": "0.126"
       },
       "geometry": {
@@ -8135,7 +8135,7 @@
       "type": "Feature",
       "id": 14240,
       "properties": {
-       "mag": 1.8,
+       "mag": 5.12,
        "bv": "0.349"
       },
       "geometry": {
@@ -8435,7 +8435,7 @@
       "type": "Feature",
       "id": 14879,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.8,
        "bv": "0.543"
       },
       "geometry": {
@@ -9260,7 +9260,7 @@
       "type": "Feature",
       "id": 16228,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.21,
        "bv": "0.419"
       },
       "geometry": {
@@ -9965,7 +9965,7 @@
       "type": "Feature",
       "id": 17440,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.84,
        "bv": "1.133"
       },
       "geometry": {
@@ -10295,7 +10295,7 @@
       "type": "Feature",
       "id": 17678,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.26,
        "bv": "1.590"
       },
       "geometry": {
@@ -10505,7 +10505,7 @@
       "type": "Feature",
       "id": 17884,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.39,
        "bv": "1.870"
       },
       "geometry": {
@@ -10580,7 +10580,7 @@
       "type": "Feature",
       "id": 17959,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.59,
        "bv": "0.064"
       },
       "geometry": {
@@ -10910,7 +10910,7 @@
       "type": "Feature",
       "id": 18597,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.56,
        "bv": "1.590"
       },
       "geometry": {
@@ -11585,7 +11585,7 @@
       "type": "Feature",
       "id": 19747,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.85,
        "bv": "1.085"
       },
       "geometry": {
@@ -11615,7 +11615,7 @@
       "type": "Feature",
       "id": 19780,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.33,
        "bv": "0.915"
       },
       "geometry": {
@@ -11720,7 +11720,7 @@
       "type": "Feature",
       "id": 19893,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.26,
        "bv": "0.312"
       },
       "geometry": {
@@ -11735,7 +11735,7 @@
       "type": "Feature",
       "id": 19921,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.44,
        "bv": "1.078"
       },
       "geometry": {
@@ -12875,7 +12875,7 @@
       "type": "Feature",
       "id": 21060,
       "properties": {
-       "mag": 1.8,
+       "mag": 5.07,
        "bv": "-0.194"
       },
       "geometry": {
@@ -13010,7 +13010,7 @@
       "type": "Feature",
       "id": 21281,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.3,
        "bv": "-0.079"
       },
       "geometry": {
@@ -13430,7 +13430,7 @@
       "type": "Feature",
       "id": 21770,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.44,
        "bv": "0.342"
       },
       "geometry": {
@@ -13490,7 +13490,7 @@
       "type": "Feature",
       "id": 21861,
       "properties": {
-       "mag": 1.8,
+       "mag": 5.04,
        "bv": "0.391"
       },
       "geometry": {
@@ -14090,7 +14090,7 @@
       "type": "Feature",
       "id": 22783,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.26,
        "bv": "-0.008"
       },
       "geometry": {
@@ -14210,7 +14210,7 @@
       "type": "Feature",
       "id": 22871,
       "properties": {
-       "mag": 1.8,
+       "mag": 5.47,
        "bv": "1.518"
       },
       "geometry": {
@@ -14315,7 +14315,7 @@
       "type": "Feature",
       "id": 23040,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.43,
        "bv": "-0.017"
       },
       "geometry": {
@@ -14600,7 +14600,7 @@
       "type": "Feature",
       "id": 23467,
       "properties": {
-       "mag": 1.8,
+       "mag": 5.3,
        "bv": "0.996"
       },
       "geometry": {
@@ -14675,7 +14675,7 @@
       "type": "Feature",
       "id": 23522,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.03,
        "bv": "0.921"
       },
       "geometry": {
@@ -14705,7 +14705,7 @@
       "type": "Feature",
       "id": 23595,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.55,
        "bv": "1.177"
       },
       "geometry": {
@@ -14780,7 +14780,7 @@
       "type": "Feature",
       "id": 23693,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.71,
        "bv": "0.526"
       },
       "geometry": {
@@ -16400,7 +16400,7 @@
       "type": "Feature",
       "id": 25859,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.86,
        "bv": "1.130"
       },
       "geometry": {
@@ -16445,7 +16445,7 @@
       "type": "Feature",
       "id": 25918,
       "properties": {
-       "mag": 1.8,
+       "mag": 5.18,
        "bv": "1.130"
       },
       "geometry": {
@@ -16640,7 +16640,7 @@
       "type": "Feature",
       "id": 26069,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.76,
        "bv": "0.640"
       },
       "geometry": {
@@ -17195,7 +17195,7 @@
       "type": "Feature",
       "id": 26634,
       "properties": {
-       "mag": 1.8,
+       "mag": 2.65,
        "bv": "-0.120"
       },
       "geometry": {
@@ -17405,7 +17405,7 @@
       "type": "Feature",
       "id": 27100,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.34,
        "bv": "0.217"
       },
       "geometry": {
@@ -17555,7 +17555,7 @@
       "type": "Feature",
       "id": 27321,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.85,
        "bv": "0.171"
       },
       "geometry": {
@@ -17705,7 +17705,7 @@
       "type": "Feature",
       "id": 27530,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.5,
        "bv": "1.075"
       },
       "geometry": {
@@ -17840,7 +17840,7 @@
       "type": "Feature",
       "id": 27628,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.12,
        "bv": "1.146"
       },
       "geometry": {
@@ -18050,7 +18050,7 @@
       "type": "Feature",
       "id": 27890,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.65,
        "bv": "1.022"
       },
       "geometry": {
@@ -18425,7 +18425,7 @@
       "type": "Feature",
       "id": 28328,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.96,
        "bv": "1.146"
       },
       "geometry": {
@@ -19145,7 +19145,7 @@
       "type": "Feature",
       "id": 29271,
       "properties": {
-       "mag": 1.8,
+       "mag": 5.08,
        "bv": "0.714"
       },
       "geometry": {
@@ -19385,7 +19385,7 @@
       "type": "Feature",
       "id": 29651,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.99,
        "bv": "1.319"
       },
       "geometry": {
@@ -19745,7 +19745,7 @@
       "type": "Feature",
       "id": 29997,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.76,
        "bv": "0.025"
       },
       "geometry": {
@@ -19775,7 +19775,7 @@
       "type": "Feature",
       "id": 30060,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.44,
        "bv": "0.032"
       },
       "geometry": {
@@ -19910,7 +19910,7 @@
       "type": "Feature",
       "id": 30277,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.85,
        "bv": "0.858"
       },
       "geometry": {
@@ -20000,7 +20000,7 @@
       "type": "Feature",
       "id": 30419,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.39,
        "bv": "0.215"
       },
       "geometry": {
@@ -20030,7 +20030,7 @@
       "type": "Feature",
       "id": 30438,
       "properties": {
-       "mag": 1.8,
+       "mag": -0.62,
        "bv": "0.164"
       },
       "geometry": {
@@ -20330,7 +20330,7 @@
       "type": "Feature",
       "id": 30867,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.76,
        "bv": "-0.113"
       },
       "geometry": {
@@ -20630,7 +20630,7 @@
       "type": "Feature",
       "id": 31216,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.47,
        "bv": "0.023"
       },
       "geometry": {
@@ -20930,7 +20930,7 @@
       "type": "Feature",
       "id": 31685,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.17,
        "bv": "-0.103"
       },
       "geometry": {
@@ -21140,7 +21140,7 @@
       "type": "Feature",
       "id": 31978,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.66,
        "bv": "-0.233"
       },
       "geometry": {
@@ -21575,7 +21575,7 @@
       "type": "Feature",
       "id": 32578,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.48,
        "bv": "1.099"
       },
       "geometry": {
@@ -21590,7 +21590,7 @@
       "type": "Feature",
       "id": 32607,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.24,
        "bv": "0.225"
       },
       "geometry": {
@@ -22250,7 +22250,7 @@
       "type": "Feature",
       "id": 33449,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.35,
        "bv": "0.850"
       },
       "geometry": {
@@ -22370,7 +22370,7 @@
       "type": "Feature",
       "id": 33694,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.55,
        "bv": "1.365"
       },
       "geometry": {
@@ -22925,7 +22925,7 @@
       "type": "Feature",
       "id": 34481,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.78,
        "bv": "1.006"
       },
       "geometry": {
@@ -23105,7 +23105,7 @@
       "type": "Feature",
       "id": 34769,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.15,
        "bv": "-0.005"
       },
       "geometry": {
@@ -23645,7 +23645,7 @@
       "type": "Feature",
       "id": 35228,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.97,
        "bv": "0.760"
       },
       "geometry": {
@@ -23660,7 +23660,7 @@
       "type": "Feature",
       "id": 35264,
       "properties": {
-       "mag": 1.8,
+       "mag": 2.71,
        "bv": "1.616"
       },
       "geometry": {
@@ -24365,7 +24365,7 @@
       "type": "Feature",
       "id": 36145,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.61,
        "bv": "-0.001"
       },
       "geometry": {
@@ -25040,7 +25040,7 @@
       "type": "Feature",
       "id": 36917,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.65,
        "bv": "-0.111"
       },
       "geometry": {
@@ -25280,7 +25280,7 @@
       "type": "Feature",
       "id": 37229,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.8,
        "bv": "-0.159"
       },
       "geometry": {
@@ -25490,7 +25490,7 @@
       "type": "Feature",
       "id": 37447,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.94,
        "bv": "1.022"
       },
       "geometry": {
@@ -25685,7 +25685,7 @@
       "type": "Feature",
       "id": 37677,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.94,
        "bv": "0.160"
       },
       "geometry": {
@@ -26015,7 +26015,7 @@
       "type": "Feature",
       "id": 38070,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.4,
        "bv": "-0.070"
       },
       "geometry": {
@@ -26135,7 +26135,7 @@
       "type": "Feature",
       "id": 38170,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.34,
        "bv": "1.218"
       },
       "geometry": {
@@ -26510,7 +26510,7 @@
       "type": "Feature",
       "id": 38827,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.46,
        "bv": "-0.177"
       },
       "geometry": {
@@ -26525,7 +26525,7 @@
       "type": "Feature",
       "id": 38835,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.2,
        "bv": "0.718"
       },
       "geometry": {
@@ -26975,7 +26975,7 @@
       "type": "Feature",
       "id": 39429,
       "properties": {
-       "mag": 1.8,
+       "mag": 2.21,
        "bv": "-0.269"
       },
       "geometry": {
@@ -27110,7 +27110,7 @@
       "type": "Feature",
       "id": 39757,
       "properties": {
-       "mag": 1.8,
+       "mag": 2.83,
        "bv": "0.458"
       },
       "geometry": {
@@ -27140,7 +27140,7 @@
       "type": "Feature",
       "id": 39794,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.35,
        "bv": "-0.113"
       },
       "geometry": {
@@ -27170,7 +27170,7 @@
       "type": "Feature",
       "id": 39863,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.36,
        "bv": "0.970"
       },
       "geometry": {
@@ -27245,7 +27245,7 @@
       "type": "Feature",
       "id": 39953,
       "properties": {
-       "mag": 1.8,
+       "mag": 1.75,
        "bv": "-0.145"
       },
       "geometry": {
@@ -27725,7 +27725,7 @@
       "type": "Feature",
       "id": 40702,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.05,
        "bv": "0.413"
       },
       "geometry": {
@@ -27995,7 +27995,7 @@
       "type": "Feature",
       "id": 41037,
       "properties": {
-       "mag": 1.8,
+       "mag": 1.86,
        "bv": "1.196"
       },
       "geometry": {
@@ -28040,7 +28040,7 @@
       "type": "Feature",
       "id": 41075,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.25,
        "bv": "1.550"
       },
       "geometry": {
@@ -28235,7 +28235,7 @@
       "type": "Feature",
       "id": 41312,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.77,
        "bv": "1.132"
       },
       "geometry": {
@@ -29045,7 +29045,7 @@
       "type": "Feature",
       "id": 42515,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.97,
        "bv": "0.936"
       },
       "geometry": {
@@ -29345,7 +29345,7 @@
       "type": "Feature",
       "id": 42828,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.68,
        "bv": "-0.180"
       },
       "geometry": {
@@ -29420,7 +29420,7 @@
       "type": "Feature",
       "id": 42913,
       "properties": {
-       "mag": 1.8,
+       "mag": 1.93,
        "bv": "0.043"
       },
       "geometry": {
@@ -29735,7 +29735,7 @@
       "type": "Feature",
       "id": 43409,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.02,
        "bv": "1.272"
       },
       "geometry": {
@@ -30350,7 +30350,7 @@
       "type": "Feature",
       "id": 44248,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.96,
        "bv": "0.463"
       },
       "geometry": {
@@ -30455,7 +30455,7 @@
       "type": "Feature",
       "id": 44382,
       "properties": {
-       "mag": 1.8,
+       "mag": 4,
        "bv": "0.145"
       },
       "geometry": {
@@ -30650,7 +30650,7 @@
       "type": "Feature",
       "id": 44816,
       "properties": {
-       "mag": 1.8,
+       "mag": 2.23,
        "bv": "1.665"
       },
       "geometry": {
@@ -30980,7 +30980,7 @@
       "type": "Feature",
       "id": 45238,
       "properties": {
-       "mag": 1.8,
+       "mag": 1.67,
        "bv": "0.070"
       },
       "geometry": {
@@ -31295,7 +31295,7 @@
       "type": "Feature",
       "id": 45556,
       "properties": {
-       "mag": 1.8,
+       "mag": 2.21,
        "bv": "0.189"
       },
       "geometry": {
@@ -31430,7 +31430,7 @@
       "type": "Feature",
       "id": 45688,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.82,
        "bv": "0.066"
       },
       "geometry": {
@@ -31505,7 +31505,7 @@
       "type": "Feature",
       "id": 45860,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.14,
        "bv": "1.550"
       },
       "geometry": {
@@ -31580,7 +31580,7 @@
       "type": "Feature",
       "id": 45941,
       "properties": {
-       "mag": 1.8,
+       "mag": 2.47,
        "bv": "-0.141"
       },
       "geometry": {
@@ -31880,7 +31880,7 @@
       "type": "Feature",
       "id": 46515,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.51,
        "bv": "1.408"
       },
       "geometry": {
@@ -31955,7 +31955,7 @@
       "type": "Feature",
       "id": 46651,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.6,
        "bv": "0.371"
       },
       "geometry": {
@@ -32285,7 +32285,7 @@
       "type": "Feature",
       "id": 46952,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.54,
        "bv": "0.914"
       },
       "geometry": {
@@ -33170,7 +33170,7 @@
       "type": "Feature",
       "id": 48437,
       "properties": {
-       "mag": 1.8,
+       "mag": 5.07,
        "bv": "0.038"
       },
       "geometry": {
@@ -33335,7 +33335,7 @@
       "type": "Feature",
       "id": 48774,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.52,
        "bv": "-0.067"
       },
       "geometry": {
@@ -33620,7 +33620,7 @@
       "type": "Feature",
       "id": 49593,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.49,
        "bv": "0.190"
       },
       "geometry": {
@@ -33650,7 +33650,7 @@
       "type": "Feature",
       "id": 49641,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.48,
        "bv": "-0.032"
       },
       "geometry": {
@@ -33890,7 +33890,7 @@
       "type": "Feature",
       "id": 50099,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.29,
        "bv": "-0.074"
       },
       "geometry": {
@@ -33920,7 +33920,7 @@
       "type": "Feature",
       "id": 50191,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.85,
        "bv": "0.051"
       },
       "geometry": {
@@ -34025,7 +34025,7 @@
       "type": "Feature",
       "id": 50371,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.39,
        "bv": "1.541"
       },
       "geometry": {
@@ -34460,7 +34460,7 @@
       "type": "Feature",
       "id": 51056,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.72,
        "bv": "0.260"
       },
       "geometry": {
@@ -34505,7 +34505,7 @@
       "type": "Feature",
       "id": 51172,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.28,
        "bv": "1.429"
       },
       "geometry": {
@@ -34580,7 +34580,7 @@
       "type": "Feature",
       "id": 51233,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.2,
        "bv": "0.908"
       },
       "geometry": {
@@ -34610,7 +34610,7 @@
       "type": "Feature",
       "id": 51362,
       "properties": {
-       "mag": 1.8,
+       "mag": 5.19,
        "bv": "-0.050"
       },
       "geometry": {
@@ -34685,7 +34685,7 @@
       "type": "Feature",
       "id": 51437,
       "properties": {
-       "mag": 1.8,
+       "mag": 5.08,
        "bv": "-0.138"
       },
       "geometry": {
@@ -34820,7 +34820,7 @@
       "type": "Feature",
       "id": 51576,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.3,
        "bv": "-0.089"
       },
       "geometry": {
@@ -35030,7 +35030,7 @@
       "type": "Feature",
       "id": 51839,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.11,
        "bv": "1.580"
       },
       "geometry": {
@@ -35375,7 +35375,7 @@
       "type": "Feature",
       "id": 52419,
       "properties": {
-       "mag": 1.8,
+       "mag": 2.74,
        "bv": "-0.220"
       },
       "geometry": {
@@ -35540,7 +35540,7 @@
       "type": "Feature",
       "id": 52595,
       "properties": {
-       "mag": 1.8,
+       "mag": 5.46,
        "bv": "0.957"
       },
       "geometry": {
@@ -35645,7 +35645,7 @@
       "type": "Feature",
       "id": 52727,
       "properties": {
-       "mag": 1.8,
+       "mag": 2.69,
        "bv": "0.901"
       },
       "geometry": {
@@ -35900,7 +35900,7 @@
       "type": "Feature",
       "id": 53229,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.79,
        "bv": "1.040"
       },
       "geometry": {
@@ -35930,7 +35930,7 @@
       "type": "Feature",
       "id": 53253,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.78,
        "bv": "0.945"
       },
       "geometry": {
@@ -36140,7 +36140,7 @@
       "type": "Feature",
       "id": 53502,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.6,
        "bv": "1.006"
       },
       "geometry": {
@@ -36515,7 +36515,7 @@
       "type": "Feature",
       "id": 54301,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.62,
        "bv": "0.988"
       },
       "geometry": {
@@ -36575,7 +36575,7 @@
       "type": "Feature",
       "id": 54461,
       "properties": {
-       "mag": 1.8,
+       "mag": 5.11,
        "bv": "0.195"
       },
       "geometry": {
@@ -36590,7 +36590,7 @@
       "type": "Feature",
       "id": 54463,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.93,
        "bv": "1.225"
       },
       "geometry": {
@@ -36725,7 +36725,7 @@
       "type": "Feature",
       "id": 54751,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.59,
        "bv": "0.541"
       },
       "geometry": {
@@ -38195,7 +38195,7 @@
       "type": "Feature",
       "id": 57363,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.63,
        "bv": "0.160"
       },
       "geometry": {
@@ -38750,7 +38750,7 @@
       "type": "Feature",
       "id": 58484,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.88,
        "bv": "-0.054"
       },
       "geometry": {
@@ -39365,7 +39365,7 @@
       "type": "Feature",
       "id": 59747,
       "properties": {
-       "mag": 1.8,
+       "mag": 2.79,
        "bv": "-0.193"
       },
       "geometry": {
@@ -39500,7 +39500,7 @@
       "type": "Feature",
       "id": 59929,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.06,
        "bv": "1.603"
       },
       "geometry": {
@@ -39515,7 +39515,7 @@
       "type": "Feature",
       "id": 60000,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.24,
        "bv": "-0.123"
       },
       "geometry": {
@@ -39980,7 +39980,7 @@
       "type": "Feature",
       "id": 60718,
       "properties": {
-       "mag": 1.8,
+       "mag": 0.77,
        "bv": "-0.243"
       },
       "geometry": {
@@ -40010,7 +40010,7 @@
       "type": "Feature",
       "id": 60742,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.35,
        "bv": "1.128"
       },
       "geometry": {
@@ -40250,7 +40250,7 @@
       "type": "Feature",
       "id": 61084,
       "properties": {
-       "mag": 1.8,
+       "mag": 1.59,
        "bv": "1.600"
       },
       "geometry": {
@@ -40325,7 +40325,7 @@
       "type": "Feature",
       "id": 61199,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.84,
        "bv": "-0.157"
       },
       "geometry": {
@@ -40400,7 +40400,7 @@
       "type": "Feature",
       "id": 61317,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.24,
        "bv": "0.588"
       },
       "geometry": {
@@ -40580,7 +40580,7 @@
       "type": "Feature",
       "id": 61585,
       "properties": {
-       "mag": 1.8,
+       "mag": 2.69,
        "bv": "-0.176"
       },
       "geometry": {
@@ -40955,7 +40955,7 @@
       "type": "Feature",
       "id": 62322,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.04,
        "bv": "-0.178"
       },
       "geometry": {
@@ -41060,7 +41060,7 @@
       "type": "Feature",
       "id": 62434,
       "properties": {
-       "mag": 1.8,
+       "mag": 1.25,
        "bv": "-0.238"
       },
       "geometry": {
@@ -41555,7 +41555,7 @@
       "type": "Feature",
       "id": 63121,
       "properties": {
-       "mag": 1.8,
+       "mag": 5.61,
        "bv": "0.337"
       },
       "geometry": {
@@ -41765,7 +41765,7 @@
       "type": "Feature",
       "id": 63613,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.61,
        "bv": "1.190"
       },
       "geometry": {
@@ -42110,7 +42110,7 @@
       "type": "Feature",
       "id": 64241,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.32,
        "bv": "0.455"
       },
       "geometry": {
@@ -42185,7 +42185,7 @@
       "type": "Feature",
       "id": 64394,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.23,
        "bv": "0.572"
       },
       "geometry": {
@@ -45575,7 +45575,7 @@
       "type": "Feature",
       "id": 70638,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.31,
        "bv": "1.300"
       },
       "geometry": {
@@ -46220,7 +46220,7 @@
       "type": "Feature",
       "id": 71908,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.18,
        "bv": "0.256"
       },
       "geometry": {
@@ -46520,7 +46520,7 @@
       "type": "Feature",
       "id": 72370,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.83,
        "bv": "1.433"
       },
       "geometry": {
@@ -48095,7 +48095,7 @@
       "type": "Feature",
       "id": 74824,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.07,
        "bv": "0.088"
       },
       "geometry": {
@@ -48200,7 +48200,7 @@
       "type": "Feature",
       "id": 74946,
       "properties": {
-       "mag": 1.8,
+       "mag": 2.87,
        "bv": "0.014"
       },
       "geometry": {
@@ -48500,7 +48500,7 @@
       "type": "Feature",
       "id": 75323,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.48,
        "bv": "0.169"
       },
       "geometry": {
@@ -50240,7 +50240,7 @@
       "type": "Feature",
       "id": 77952,
       "properties": {
-       "mag": 1.8,
+       "mag": 2.83,
        "bv": "0.315"
       },
       "geometry": {
@@ -50750,7 +50750,7 @@
       "type": "Feature",
       "id": 78639,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.65,
        "bv": "0.902"
       },
       "geometry": {
@@ -50960,7 +50960,7 @@
       "type": "Feature",
       "id": 78914,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.73,
        "bv": "0.230"
       },
       "geometry": {
@@ -51770,7 +51770,7 @@
       "type": "Feature",
       "id": 80000,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.01,
        "bv": "1.080"
       },
       "geometry": {
@@ -51800,7 +51800,7 @@
       "type": "Feature",
       "id": 80047,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.68,
        "bv": "1.680"
       },
       "geometry": {
@@ -52190,7 +52190,7 @@
       "type": "Feature",
       "id": 80582,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.46,
        "bv": "-0.070"
       },
       "geometry": {
@@ -52595,7 +52595,7 @@
       "type": "Feature",
       "id": 81065,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.86,
        "bv": "0.923"
       },
       "geometry": {
@@ -53030,7 +53030,7 @@
       "type": "Feature",
       "id": 81852,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.23,
        "bv": "1.060"
       },
       "geometry": {
@@ -53255,7 +53255,7 @@
       "type": "Feature",
       "id": 82273,
       "properties": {
-       "mag": 1.8,
+       "mag": 1.91,
        "bv": "1.447"
       },
       "geometry": {
@@ -56270,7 +56270,7 @@
       "type": "Feature",
       "id": 86929,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.61,
        "bv": "1.161"
       },
       "geometry": {
@@ -57470,7 +57470,7 @@
       "type": "Feature",
       "id": 88866,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.33,
        "bv": "0.228"
       },
       "geometry": {
@@ -57635,7 +57635,7 @@
       "type": "Feature",
       "id": 89112,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.52,
        "bv": "1.009"
       },
       "geometry": {
@@ -58250,7 +58250,7 @@
       "type": "Feature",
       "id": 90098,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.35,
        "bv": "1.462"
       },
       "geometry": {
@@ -58475,7 +58475,7 @@
       "type": "Feature",
       "id": 90422,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.49,
        "bv": "-0.179"
       },
       "geometry": {
@@ -58565,7 +58565,7 @@
       "type": "Feature",
       "id": 90568,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.1,
        "bv": "0.995"
       },
       "geometry": {
@@ -58580,7 +58580,7 @@
       "type": "Feature",
       "id": 90595,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.67,
        "bv": "0.076"
       },
       "geometry": {
@@ -59030,7 +59030,7 @@
       "type": "Feature",
       "id": 91117,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.85,
        "bv": "1.317"
       },
       "geometry": {
@@ -59270,7 +59270,7 @@
       "type": "Feature",
       "id": 91726,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.7,
        "bv": "0.358"
       },
       "geometry": {
@@ -59300,7 +59300,7 @@
       "type": "Feature",
       "id": 91792,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.01,
        "bv": "1.134"
       },
       "geometry": {
@@ -59675,7 +59675,7 @@
       "type": "Feature",
       "id": 92175,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.22,
        "bv": "1.087"
       },
       "geometry": {
@@ -59915,7 +59915,7 @@
       "type": "Feature",
       "id": 92609,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.22,
        "bv": "-0.150"
       },
       "geometry": {
@@ -61520,7 +61520,7 @@
       "type": "Feature",
       "id": 94703,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.76,
        "bv": "-0.058"
       },
       "geometry": {
@@ -62225,7 +62225,7 @@
       "type": "Feature",
       "id": 95771,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.44,
        "bv": "1.502"
       },
       "geometry": {
@@ -63575,7 +63575,7 @@
       "type": "Feature",
       "id": 97886,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.57,
        "bv": "-0.047"
       },
       "geometry": {
@@ -64100,7 +64100,7 @@
       "type": "Feature",
       "id": 98495,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.97,
        "bv": "-0.032"
       },
       "geometry": {
@@ -64145,7 +64145,7 @@
       "type": "Feature",
       "id": 98543,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.66,
        "bv": "0.184"
       },
       "geometry": {
@@ -64535,7 +64535,7 @@
       "type": "Feature",
       "id": 99240,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.55,
        "bv": "0.751"
       },
       "geometry": {
@@ -64895,7 +64895,7 @@
       "type": "Feature",
       "id": 99874,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.5,
        "bv": "1.258"
       },
       "geometry": {
@@ -65360,7 +65360,7 @@
       "type": "Feature",
       "id": 100751,
       "properties": {
-       "mag": 1.8,
+       "mag": 1.94,
        "bv": "-0.118"
       },
       "geometry": {
@@ -65795,7 +65795,7 @@
       "type": "Feature",
       "id": 101772,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.11,
        "bv": "0.998"
       },
       "geometry": {
@@ -66245,7 +66245,7 @@
       "type": "Feature",
       "id": 102333,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.51,
        "bv": "0.278"
       },
       "geometry": {
@@ -66290,7 +66290,7 @@
       "type": "Feature",
       "id": 102395,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.42,
        "bv": "0.163"
       },
       "geometry": {
@@ -66545,7 +66545,7 @@
       "type": "Feature",
       "id": 102693,
       "properties": {
-       "mag": 1.8,
+       "mag": 5.11,
        "bv": "0.361"
       },
       "geometry": {
@@ -66620,7 +66620,7 @@
       "type": "Feature",
       "id": 102831,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.89,
        "bv": "1.004"
       },
       "geometry": {
@@ -66905,7 +66905,7 @@
       "type": "Feature",
       "id": 103227,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.67,
        "bv": "1.250"
       },
       "geometry": {
@@ -67265,7 +67265,7 @@
       "type": "Feature",
       "id": 103738,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.67,
        "bv": "0.890"
       },
       "geometry": {
@@ -67970,7 +67970,7 @@
       "type": "Feature",
       "id": 105140,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.71,
        "bv": "0.070"
       },
       "geometry": {
@@ -68120,7 +68120,7 @@
       "type": "Feature",
       "id": 105319,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.39,
        "bv": "0.191"
       },
       "geometry": {
@@ -68135,7 +68135,7 @@
       "type": "Feature",
       "id": 105382,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.8,
        "bv": "0.029"
       },
       "geometry": {
@@ -68450,7 +68450,7 @@
       "type": "Feature",
       "id": 105858,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.21,
        "bv": "0.494"
       },
       "geometry": {
@@ -69020,7 +69020,7 @@
       "type": "Feature",
       "id": 107089,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.73,
        "bv": "1.008"
       },
       "geometry": {
@@ -69695,7 +69695,7 @@
       "type": "Feature",
       "id": 108085,
       "properties": {
-       "mag": 1.8,
+       "mag": 3,
        "bv": "-0.084"
       },
       "geometry": {
@@ -69815,7 +69815,7 @@
       "type": "Feature",
       "id": 108431,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.4,
        "bv": "0.297"
       },
       "geometry": {
@@ -70250,7 +70250,7 @@
       "type": "Feature",
       "id": 109111,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.47,
        "bv": "1.349"
       },
       "geometry": {
@@ -70325,7 +70325,7 @@
       "type": "Feature",
       "id": 109268,
       "properties": {
-       "mag": 1.8,
+       "mag": 1.73,
        "bv": "-0.070"
       },
       "geometry": {
@@ -70730,7 +70730,7 @@
       "type": "Feature",
       "id": 109754,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.5,
        "bv": "1.385"
       },
       "geometry": {
@@ -70805,7 +70805,7 @@
       "type": "Feature",
       "id": 109908,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.79,
        "bv": "0.790"
       },
       "geometry": {
@@ -70820,7 +70820,7 @@
       "type": "Feature",
       "id": 109937,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.14,
        "bv": "1.447"
       },
       "geometry": {
@@ -70970,7 +70970,7 @@
       "type": "Feature",
       "id": 110130,
       "properties": {
-       "mag": 1.8,
+       "mag": 2.87,
        "bv": "1.390"
       },
       "geometry": {
@@ -71045,7 +71045,7 @@
       "type": "Feature",
       "id": 110351,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.55,
        "bv": "-0.100"
       },
       "geometry": {
@@ -71165,7 +71165,7 @@
       "type": "Feature",
       "id": 110538,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.42,
        "bv": "1.015"
       },
       "geometry": {
@@ -71210,7 +71210,7 @@
       "type": "Feature",
       "id": 110609,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.55,
        "bv": "0.092"
       },
       "geometry": {
@@ -71360,7 +71360,7 @@
       "type": "Feature",
       "id": 110838,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.51,
        "bv": "-0.029"
       },
       "geometry": {
@@ -71495,7 +71495,7 @@
       "type": "Feature",
       "id": 110997,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.97,
        "bv": "1.022"
       },
       "geometry": {
@@ -71510,7 +71510,7 @@
       "type": "Feature",
       "id": 111022,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.34,
        "bv": "1.679"
       },
       "geometry": {
@@ -71525,7 +71525,7 @@
       "type": "Feature",
       "id": 111043,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.12,
        "bv": "1.570"
       },
       "geometry": {
@@ -71600,7 +71600,7 @@
       "type": "Feature",
       "id": 111104,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.52,
        "bv": "-0.086"
       },
       "geometry": {
@@ -71630,7 +71630,7 @@
       "type": "Feature",
       "id": 111169,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.76,
        "bv": "0.031"
       },
       "geometry": {
@@ -72005,7 +72005,7 @@
       "type": "Feature",
       "id": 111944,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.5,
        "bv": "1.318"
       },
       "geometry": {
@@ -72155,7 +72155,7 @@
       "type": "Feature",
       "id": 112122,
       "properties": {
-       "mag": 1.8,
+       "mag": 2.07,
        "bv": "1.610"
       },
       "geometry": {
@@ -72275,7 +72275,7 @@
       "type": "Feature",
       "id": 112405,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.13,
        "bv": "0.208"
       },
       "geometry": {
@@ -72395,7 +72395,7 @@
       "type": "Feature",
       "id": 112623,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.49,
        "bv": "0.083"
       },
       "geometry": {
@@ -72980,7 +72980,7 @@
       "type": "Feature",
       "id": 113638,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.11,
        "bv": "0.960"
       },
       "geometry": {
@@ -73820,7 +73820,7 @@
       "type": "Feature",
       "id": 114996,
       "properties": {
-       "mag": 1.8,
+       "mag": 3.99,
        "bv": "0.410"
       },
       "geometry": {
@@ -73910,7 +73910,7 @@
       "type": "Feature",
       "id": 115102,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.41,
        "bv": "1.109"
       },
       "geometry": {
@@ -74465,7 +74465,7 @@
       "type": "Feature",
       "id": 116231,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.38,
        "bv": "-0.095"
       },
       "geometry": {
@@ -75230,7 +75230,7 @@
       "type": "Feature",
       "id": 117452,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.59,
        "bv": "0.001"
       },
       "geometry": {
@@ -75650,7 +75650,7 @@
       "type": "Feature",
       "id": 118322,
       "properties": {
-       "mag": 1.8,
+       "mag": 4.49,
        "bv": "-0.075"
       },
       "geometry": {
